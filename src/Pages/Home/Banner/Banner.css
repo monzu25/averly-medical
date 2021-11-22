@@ -1,0 +1,16 @@
+
+
+.banner-top::after, banner-top::before {
+    height:100%;
+    content:' ';
+    /* position: absolute; */
+    top: 0;
+
+    
+}
+.banner-top::after {
+    right: 0;
+    background-color:#283747;
+    width: 30%;
+   
+}
